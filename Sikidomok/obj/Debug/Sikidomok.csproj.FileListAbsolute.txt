@@ -1,0 +1,6 @@
+c:\users\laci\documents\visual studio 2015\Projects\Sikidomok\Sikidomok\bin\Debug\Sikidomok.exe.config
+c:\users\laci\documents\visual studio 2015\Projects\Sikidomok\Sikidomok\bin\Debug\Sikidomok.exe
+c:\users\laci\documents\visual studio 2015\Projects\Sikidomok\Sikidomok\bin\Debug\Sikidomok.pdb
+c:\users\laci\documents\visual studio 2015\Projects\Sikidomok\Sikidomok\obj\Debug\Sikidomok.csprojResolveAssemblyReference.cache
+c:\users\laci\documents\visual studio 2015\Projects\Sikidomok\Sikidomok\obj\Debug\Sikidomok.exe
+c:\users\laci\documents\visual studio 2015\Projects\Sikidomok\Sikidomok\obj\Debug\Sikidomok.pdb
